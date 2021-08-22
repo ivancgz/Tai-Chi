@@ -147,9 +147,9 @@ var step = function step() {
       step();
     } else {// n是最后一个，什么都不做
     }
-  }, 0);
+  }, 50);
 };
 
 step();
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=main.9930e171.js.map
+//# sourceMappingURL=main.fd11a28e.js.map
