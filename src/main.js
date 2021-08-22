@@ -30,7 +30,7 @@ background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 5
     width: 100px;
     height: 100px;
     left: 50%;
-    top: 0;
+    bottom: 0;
     transform: translateX(-50%);
     background: #000;
     border-radius: 50%;
@@ -40,7 +40,7 @@ background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 5
     width: 100px;
     height: 100px;
     left: 50%;
-    bottom: 0;
+    top: 0;
     transform: translateX(-50%);
     background: #fff;
     border-radius: 50%;
